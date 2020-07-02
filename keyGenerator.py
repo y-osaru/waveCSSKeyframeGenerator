@@ -19,4 +19,4 @@ def main():
     print(str(i) + "% { transform: translateY("+ str(sinY) + "px); }")
 
 if __name__ == '__main__':
-	main()
+  main()

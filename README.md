@@ -1,0 +1,2 @@
+# waveCSSKeyframeGenerator
+振動するCSSを作る時のkeyframeを作るスクリプト
